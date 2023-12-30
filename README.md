@@ -35,7 +35,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/DipankarBhaduri/Spring_Data_Jpa_Mapping.git
     cd your-repo
     ```
 
